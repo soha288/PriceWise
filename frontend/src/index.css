@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Sidebar presentation for AI Guide without changing its component logic */
+.ai-sidebar > div {
+  margin: 0 !important;
+  max-width: 100% !important;
+  padding: 1rem !important;
+}
+.ai-sidebar .grid {
+  grid-template-columns: 1fr !important;
+  gap: 0.75rem !important;
+}
+.ai-sidebar h2 { font-size: 1rem !important; }
+.ai-sidebar h3 { font-size: 0.9rem !important; }
+.ai-sidebar p { font-size: 0.9rem !important; }
+.ai-sidebar img { max-height: 140px !important; }
+.ai-sidebar a { font-size: 0.9rem !important; }
