@@ -31,7 +31,7 @@ By completing the project, we gained confidence in building an end-to-end system
 
 This project played a key role in moving us from theory to real-world application.
 
-##🛠 Tech Stack
+🛠 Tech Stack
 Frontend
 
 React.js
@@ -113,7 +113,7 @@ RGUKT, Basar
 
 Started: August 2024
 
-Completed: October–November 2024
+Completed: October 2024
 
 📌 Future Enhancements
 
